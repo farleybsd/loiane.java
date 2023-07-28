@@ -1,0 +1,3 @@
+# Execultar arquivo java 
+javac HelloWorld.java
+java HelloWorld
